@@ -10,11 +10,7 @@ import json
 Usuarios= []
 Usuarios= [ {
 
-    "nombre": "",
-    "direccion": "",
-    "contacto": "",
-    "plan que usa": "",
-    "id": ""
+    
 
  }]
 
